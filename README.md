@@ -1,5 +1,7 @@
 # ReGui
 
+ReGui Source = https://api.lithium.wtf/misc/regui
+
 Merged reference built from:
 - original `regui` source for base/default fields
 - previous README structure/examples
